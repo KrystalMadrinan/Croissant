@@ -1,0 +1,11 @@
+body {
+    background-color: lavender;
+}
+
+.nav-links a {
+    margin: 20px;
+}
+
+img {
+    max-width: 50%;
+}
